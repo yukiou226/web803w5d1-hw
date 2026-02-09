@@ -1,0 +1,5 @@
+{"_id":"60b673366016948d42935948","prodname":"notebook","qty":50,"price":8,"status":"T"}
+{"_id":"60b673366016948d42935949","prodname":"planner","qty":75,"price":7,"status":"R"}
+{"_id":"60b673366016948d4293594a","prodname":"journal","qty":25,"price":10,"status":"S"}
+{"_id":"60b673366016948d4293594b","prodname":"postcard","qty":45,"price":3,"status":"S"}
+{"_id":"60b673366016948d4293594c","prodname":"paper","qty":100,"price":5,"status":"R"}
